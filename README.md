@@ -1,5 +1,10 @@
 ### Hello There
-### Part of Robotic PNP
+### We are part of Robotic PNP
+
+<p align="center">
+  <img src="https://github.com/mika-pnp/mika-pnp/blob/main/KRPAI%20Berkaki.png" width="350" title="hover text">
+</p>
+
 <!--
 **mika-pnp/mika-pnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
