@@ -1,5 +1,5 @@
 <h1>Part of Robotik PNP</h1>
-<p align="center>
+<p align="center">
   <img src="https://github.com/mika-pnp/mika-pnp/blob/main/logo.jpg" width="350" title="hover text">
 </p>
                                                                                                  
