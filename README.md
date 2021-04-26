@@ -2,10 +2,10 @@
 ### We are part of Robotic PNP
 
 <h1>Part of Robotik PNP</h1>
-<img src="https://github.com/mika-pnp/mika-pnp/blob/main/logo.jpg" width="350" title="hover text" allign="center">
+<img src="https://github.com/mika-pnp/mika-pnp/blob/main/logo.jpg" width="350" title="hover text" align="center">
   
 <h3>Team Minangkabau of KRPAI Division</h3>
-<img src="https://github.com/mika-pnp/mika-pnp/blob/main/KRPAI%20Berkaki.png" width="350" title="hover text">
+<img src="https://github.com/mika-pnp/mika-pnp/blob/main/KRPAI%20Berkaki.png" width="350" title="hover text" align="center">
 
 
 <!--
