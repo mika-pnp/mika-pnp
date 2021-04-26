@@ -1,13 +1,12 @@
 ### Hello There
 ### We are part of Robotic PNP
 
-<p align="center">
-  <h1>Part of Robotik PNP</h1>
-  <img src="https://github.com/mika-pnp/mika-pnp/blob/main/logo.jpg" width="350" title="hover text">
+<h1>Part of Robotik PNP</h1>
+<img src="https://github.com/mika-pnp/mika-pnp/blob/main/logo.jpg" width="350" title="hover text" allign="center">
   
-  <h3>Team Minangkabau of KRPAI Division</h3>
-  <img src="https://github.com/mika-pnp/mika-pnp/blob/main/KRPAI%20Berkaki.png" width="350" title="hover text">
-</p>
+<h3>Team Minangkabau of KRPAI Division</h3>
+<img src="https://github.com/mika-pnp/mika-pnp/blob/main/KRPAI%20Berkaki.png" width="350" title="hover text">
+
 
 <!--
 **mika-pnp/mika-pnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
