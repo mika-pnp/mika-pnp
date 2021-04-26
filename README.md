@@ -1,6 +1,3 @@
-### Hello There
-### We are part of Robotic PNP
-
 <h1>Part of Robotik PNP</h1>
 <img src="https://github.com/mika-pnp/mika-pnp/blob/main/logo.jpg" width="350" title="hover text" align="center">
   
